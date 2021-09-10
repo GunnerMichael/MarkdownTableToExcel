@@ -1,0 +1,5 @@
+C:\michaelxx\repos\MarkdownTableToExcel\MarkdownTableToExcel\bin\Release\net5.0-windows\publish\MarkdownTableToExcel.exe
+C:\michaelxx\repos\MarkdownTableToExcel\MarkdownTableToExcel\bin\Release\net5.0-windows\publish\MarkdownTableToExcel.dll
+C:\michaelxx\repos\MarkdownTableToExcel\MarkdownTableToExcel\bin\Release\net5.0-windows\publish\MarkdownTableToExcel.deps.json
+C:\michaelxx\repos\MarkdownTableToExcel\MarkdownTableToExcel\bin\Release\net5.0-windows\publish\MarkdownTableToExcel.runtimeconfig.json
+C:\michaelxx\repos\MarkdownTableToExcel\MarkdownTableToExcel\bin\Release\net5.0-windows\publish\MarkdownTableToExcel.pdb
